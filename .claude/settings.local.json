@@ -1,0 +1,16 @@
+{
+  "enabledPlugins": {
+    "scientific-skills@claude-scientific-skills": false,
+    "hookify@claude-plugins-official": false,
+    "feature-dev@claude-plugins-official": false,
+    "plugin-dev@claude-plugins-official": false,
+    "commit-commands@claude-plugins-official": false,
+    "glm-plan-usage@zai-coding-plugins": false,
+    "greptile@claude-plugins-official": false,
+    "gitlab@claude-plugins-official": false,
+    "ralph-wiggum@claude-plugins-official": false,
+    "explanatory-output-style@claude-plugins-official": false,
+    "github@claude-plugins-official": false,
+    "rust-analyzer-lsp@claude-plugins-official": false
+  }
+}
